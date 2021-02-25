@@ -7,3 +7,9 @@ Return False if the number is not an integer
 (2 points)
 """
 
+def isInteger(number)
+    try:
+        int(number)
+    except:
+        return False
+    return True 

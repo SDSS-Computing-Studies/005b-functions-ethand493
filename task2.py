@@ -6,3 +6,9 @@ The input is a list.
 The return value is the largest value in the list
 (2 points)
 """
+def largest(list)
+    length = len(list)
+    list.sort()
+    largest = list.index[length - 1]
+    return largest
+

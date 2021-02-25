@@ -5,6 +5,8 @@ def sum(a,b):
     # a : float 
     # b : float
     # return value: returns the sum of the 2 numbers
+    ending = a + b
+    return ending
 
 
 
