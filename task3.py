@@ -7,7 +7,7 @@ added together
 (2 points)
 """
 
-def perimeter(list)
+def perimeter(list):
     sum = 0
     for i in list:
         sum = i + sum
